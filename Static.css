@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-image: url("apple-logo-gold.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.notch{
+    width: 700px;
+    height: auto;
+}
+
+.chipset{
+    width: 700px;
+    height: auto;
+}
+
+.port{
+    width: 700px;
+    height: auto;
+    text-align: center;
+}
+.MAC{
+    width: 600px;
+    height:auto;
+    text-align: center;
+}
+table th td{
+    border-collapse: collapse;
+
+}
+th{
+    border: 2px solid black;
+
+}
+td{
+    border: 2px solid black;
+}
+table{
+    text-align: center;
+}
